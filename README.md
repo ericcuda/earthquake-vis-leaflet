@@ -6,7 +6,7 @@
 
 Eric Staveley  (MWSa)
 Data Analytics and Visualization Bootcamp  
-Date Due:  30May2019
+Date Due:  29May2019
 
 Required:
 Run a simple server to view index.html from the VS Code terminal:  
